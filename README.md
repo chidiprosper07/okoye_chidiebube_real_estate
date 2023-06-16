@@ -11,5 +11,5 @@ Mrs Ngozi
 Mr Ekene
 Mr Johnson Promise (JP)
 Mr Patrick
-####[VIEW LIVE SITE]()
+####[VIEW LIVE SITE](https://chidiprosper07.github.io/okoye_chidiebube_real_estate/)
 ## This is a work of LM TechHub
